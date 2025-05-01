@@ -53,7 +53,7 @@ python main.py --text "This product is amazing!"
 python main.py
 ```
 
-  Option 2: GUI Mode
+  **Option 2: GUI Mode**
 
 Launch the GUI:
 ```bash
