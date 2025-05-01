@@ -1,0 +1,52 @@
+'''
+
+Getting Started
+To set up this project in PyCharm:
+
+Create a new project:
+
+Open PyCharm and select "Create New Project"
+Choose a location for your project
+Set up a new virtual environment
+
+
+Add the files:
+
+Create the files shown above in your project directory
+Save each file with the appropriate name and extension
+
+
+Install dependencies:
+
+Open the terminal in PyCharm
+Run: pip install -r requirements.txt
+
+
+Generate sample data:
+
+Run: python generate_sample_data.py
+
+
+Run the sentiment analysis:
+
+To analyze the sample data: python main.py --file sample_product_reviews.csv
+To use interactive mode: python main.py
+To analyze a single review: python main.py --text "This product is amazing!"
+
+
+
+How It Works
+This project uses NLTK's VADER (Valence Aware Dictionary and sEntiment Reasoner) for sentiment analysis. VADER is particularly effective for social media and review text as it understands:
+
+Punctuation emphasis (!!!)
+Capitalization (GREAT vs great)
+Degree modifiers (extremely good vs good)
+Negation handling (not bad != bad)
+
+The analyzer produces:
+
+A compound score (-1 to +1) indicating overall sentiment
+Component scores for positive, negative, and neutral sentiment
+A categorical label (positive/negative/neutral)
+
+'''

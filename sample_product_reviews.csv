@@ -1,0 +1,201 @@
+product_type,review_text,rating,actual_sentiment
+tablet,Terrible quality tablet. Would not recommend to anyone.,2,negative
+router,The router is incredibly well-designed and reliable.,4,positive
+speaker,Middle-of-the-road speaker. Neither disappointing nor impressive.,3,neutral
+camera,Very satisfied with this camera. Would buy again. Would buy again.,5,positive
+speaker,Very satisfied with this speaker. Would buy again.,5,positive
+headphones,This headphones is a game-changer! So glad I bought it.,4,positive
+phone,The phone is incredibly well-designed and reliable.,5,positive
+monitor,"Average monitor for the price point. Not amazing, not terrible.",3,neutral
+printer,The printer stopped working after a week. Very frustrating!,1,negative
+printer,This printer is a game-changer! So glad I bought it.,5,positive
+tablet,Excellent performance from this tablet. 5 stars!,5,positive
+router,Got this router on sale. It's acceptable for what I paid. The design is okay.,3,neutral
+router,The router has constant issues that make it unusable.,2,negative
+camera,I love this camera! It's been working great for months.,4,positive
+monitor,This monitor has both pros and cons. Works well enough.,3,neutral
+keyboard,The keyboard stopped working after a week. Very frustrating!,1,negative
+laptop,The laptop is incredibly well-designed and reliable. Would buy again.,4,positive
+smartwatch,Excellent performance from this smartwatch. 5 stars! The design is great.,5,positive
+speaker,Best speaker I've ever owned. The quality is outstanding.,5,positive
+phone,This phone is not worth the money. Save yourself the trouble.,1,negative
+camera,I love this camera! It's been working great for months.,4,positive
+keyboard,"Fantastic keyboard, very happy with my purchase.",5,positive
+router,This router is a game-changer! So glad I bought it.,5,positive
+phone,The phone is okay. Nothing special but gets the job done.,3,neutral
+mouse,The mouse has constant issues that make it unusable.,1,negative
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive
+camera,The camera has constant issues that make it unusable. The design is poor.,1,negative
+phone,Amazing battery life on this phone. Works like a charm!,5,positive
+hard drive,Very satisfied with this hard drive. Would buy again.,5,positive
+headphones,"Average headphones for the price point. Not amazing, not terrible.",3,neutral
+mouse,The mouse is okay. Nothing special but gets the job done.,3,neutral
+tablet,Amazing battery life on this tablet. Works like a charm!,5,positive
+headphones,Very satisfied with this headphones. Would buy again.,4,positive
+headphones,Very satisfied with this headphones. Would buy again.,4,positive
+speaker,This speaker is a game-changer! So glad I bought it.,4,positive
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive
+smartwatch,The smartwatch is okay. Nothing special but gets the job done.,3,neutral
+laptop,I love this laptop! It's been working great for months.,5,positive
+router,"Fantastic router, very happy with my purchase.",4,positive
+tablet,"Fantastic tablet, very happy with my purchase.",5,positive
+keyboard,The keyboard meets basic expectations but doesn't wow me. The design is okay.,3,neutral
+keyboard,Disappointed with this keyboard. Broke after just a few uses.,1,negative
+keyboard,The keyboard meets basic expectations but doesn't wow me.,3,neutral
+smartwatch,I love this smartwatch! It's been working great for months.,4,positive
+speaker,"Fantastic speaker, very happy with my purchase. The design is great.",4,positive
+mouse,This mouse is a game-changer! So glad I bought it.,5,positive
+laptop,Best laptop I've ever owned. The quality is outstanding.,4,positive
+tablet,This tablet is functional but lacks some features I was hoping for. Would maybe buy again.,3,neutral
+router,Decent router overall. Some features could be improved.,3,neutral
+phone,Got this phone on sale. It's acceptable for what I paid.,3,neutral
+camera,The camera is incredibly well-designed and reliable.,5,positive
+monitor,The monitor is fine. Not sure I would buy it again though. Would maybe buy again.,3,neutral
+printer,The printer is incredibly well-designed and reliable.,4,positive
+printer,Got this printer on sale. It's acceptable for what I paid. Neutral about the features.,3,neutral
+router,The router stopped working after a week. Very frustrating!,1,negative
+router,Middle-of-the-road router. Neither disappointing nor impressive. Would maybe buy again.,3,neutral
+router,Very satisfied with this router. Would buy again.,4,positive
+phone,The phone is incredibly well-designed and reliable.,5,positive
+keyboard,This keyboard is a game-changer! So glad I bought it.,4,positive
+hard drive,I love this hard drive! It's been working great for months.,5,positive
+laptop,Got this laptop on sale. It's acceptable for what I paid. Neutral about the features.,3,neutral
+tablet,I love this tablet! It's been working great for months.,5,positive
+printer,Best printer I've ever owned. The quality is outstanding. Love the features.,5,positive
+phone,This phone exceeds my expectations. Highly recommend!,5,positive
+camera,Best camera I've ever owned. The quality is outstanding. Love the features.,5,positive
+laptop,The laptop stopped working after a week. Very frustrating!,2,negative
+tablet,Worst tablet I've ever purchased. Complete waste of money. Hate the features.,1,negative
+smartwatch,This smartwatch is a game-changer! So glad I bought it.,5,positive
+hard drive,"Fantastic hard drive, very happy with my purchase.",5,positive
+smartwatch,Disappointed with this smartwatch. Broke after just a few uses. Would not buy again.,2,negative
+phone,This phone doesn't perform as advertised. Very misleading!,1,negative
+hard drive,This hard drive is not worth the money. Save yourself the trouble.,2,negative
+printer,The printer has constant issues that make it unusable. Would not buy again.,2,negative
+keyboard,Decent keyboard overall. Some features could be improved. Neutral about the features.,3,neutral
+keyboard,Terrible quality keyboard. Would not recommend to anyone. Would not buy again.,2,negative
+headphones,"Fantastic headphones, very happy with my purchase.",5,positive
+tablet,Very satisfied with this tablet. Would buy again. Would buy again.,4,positive
+monitor,I love this monitor! It's been working great for months.,5,positive
+smartwatch,Excellent performance from this smartwatch. 5 stars!,5,positive
+camera,Decent camera overall. Some features could be improved.,3,neutral
+speaker,This speaker exceeds my expectations. Highly recommend!,4,positive
+phone,Decent phone overall. Some features could be improved.,3,neutral
+phone,Great value for money. This phone is perfect for my needs. The design is great.,5,positive
+monitor,I love this monitor! It's been working great for months. Would buy again.,4,positive
+monitor,Great value for money. This monitor is perfect for my needs. Love the features.,4,positive
+camera,The camera meets basic expectations but doesn't wow me.,3,neutral
+tablet,The tablet has constant issues that make it unusable.,1,negative
+headphones,This headphones doesn't perform as advertised. Very misleading!,2,negative
+keyboard,Terrible quality keyboard. Would not recommend to anyone.,1,negative
+phone,Amazing battery life on this phone. Works like a charm!,4,positive
+laptop,Disappointed with this laptop. Broke after just a few uses.,1,negative
+printer,This printer is functional but lacks some features I was hoping for.,3,neutral
+camera,The camera meets basic expectations but doesn't wow me. The design is okay.,3,neutral
+monitor,Disappointed with this monitor. Broke after just a few uses.,1,negative
+headphones,Best headphones I've ever owned. The quality is outstanding. The design is great.,4,positive
+tablet,This tablet exceeds my expectations. Highly recommend!,5,positive
+phone,Best phone I've ever owned. The quality is outstanding. The design is great.,5,positive
+tablet,This tablet has both pros and cons. Works well enough.,3,neutral
+smartwatch,This smartwatch has both pros and cons. Works well enough.,3,neutral
+keyboard,I love this keyboard! It's been working great for months. Love the features.,4,positive
+tablet,This tablet exceeds my expectations. Highly recommend!,5,positive
+mouse,The mouse is incredibly well-designed and reliable.,5,positive
+camera,Amazing battery life on this camera. Works like a charm! Love the features.,5,positive
+phone,This phone is a game-changer! So glad I bought it.,4,positive
+laptop,The laptop is okay. Nothing special but gets the job done.,3,neutral
+headphones,Terrible quality headphones. Would not recommend to anyone. Would not buy again.,2,negative
+camera,Great value for money. This camera is perfect for my needs.,5,positive
+monitor,I love this monitor! It's been working great for months. Love the features.,4,positive
+phone,I love this phone! It's been working great for months.,5,positive
+monitor,This monitor is a game-changer! So glad I bought it.,4,positive
+laptop,This laptop is not worth the money. Save yourself the trouble.,1,negative
+printer,The printer meets basic expectations but doesn't wow me. Neutral about the features.,3,neutral
+monitor,"Fantastic monitor, very happy with my purchase.",5,positive
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive
+laptop,Decent laptop overall. Some features could be improved. Neutral about the features.,3,neutral
+tablet,Excellent performance from this tablet. 5 stars!,4,positive
+speaker,This speaker is way overpriced for what you get. Would not buy again.,2,negative
+phone,This phone is a game-changer! So glad I bought it.,4,positive
+printer,This printer is a game-changer! So glad I bought it. The design is great.,5,positive
+router,Very satisfied with this router. Would buy again.,4,positive
+laptop,This laptop exceeds my expectations. Highly recommend!,4,positive
+mouse,The mouse is incredibly well-designed and reliable.,4,positive
+smartwatch,Very satisfied with this smartwatch. Would buy again. Love the features.,4,positive
+laptop,Great value for money. This laptop is perfect for my needs.,4,positive
+headphones,The headphones is incredibly well-designed and reliable.,4,positive
+smartwatch,Excellent performance from this smartwatch. 5 stars!,5,positive
+laptop,This laptop is a game-changer! So glad I bought it.,5,positive
+phone,The phone stopped working after a week. Very frustrating!,1,negative
+headphones,Very satisfied with this headphones. Would buy again. Love the features.,4,positive
+monitor,Great value for money. This monitor is perfect for my needs.,4,positive
+smartwatch,This smartwatch is not worth the money. Save yourself the trouble.,2,negative
+headphones,Great value for money. This headphones is perfect for my needs.,5,positive
+printer,Excellent performance from this printer. 5 stars! Would buy again.,4,positive
+speaker,I love this speaker! It's been working great for months.,5,positive
+mouse,Excellent performance from this mouse. 5 stars!,5,positive
+hard drive,This hard drive has both pros and cons. Works well enough.,3,neutral
+laptop,Very satisfied with this laptop. Would buy again.,5,positive
+speaker,I love this speaker! It's been working great for months.,4,positive
+keyboard,Best keyboard I've ever owned. The quality is outstanding.,4,positive
+headphones,Excellent performance from this headphones. 5 stars! Love the features.,4,positive
+smartwatch,Great value for money. This smartwatch is perfect for my needs.,5,positive
+phone,Disappointed with this phone. Broke after just a few uses.,2,negative
+hard drive,The hard drive stopped working after a week. Very frustrating!,2,negative
+keyboard,The keyboard is incredibly well-designed and reliable.,5,positive
+monitor,The monitor is incredibly well-designed and reliable.,5,positive
+keyboard,Great value for money. This keyboard is perfect for my needs. Love the features.,5,positive
+hard drive,The hard drive is incredibly well-designed and reliable.,5,positive
+speaker,Best speaker I've ever owned. The quality is outstanding. Would buy again.,5,positive
+hard drive,Decent hard drive overall. Some features could be improved. Neutral about the features.,3,neutral
+phone,Middle-of-the-road phone. Neither disappointing nor impressive.,3,neutral
+laptop,Great value for money. This laptop is perfect for my needs.,4,positive
+mouse,"Fantastic mouse, very happy with my purchase.",4,positive
+speaker,Very satisfied with this speaker. Would buy again. The design is great.,5,positive
+camera,This camera exceeds my expectations. Highly recommend! Would buy again.,5,positive
+laptop,Middle-of-the-road laptop. Neither disappointing nor impressive. Neutral about the features.,3,neutral
+laptop,Got this laptop on sale. It's acceptable for what I paid.,3,neutral
+monitor,"Fantastic monitor, very happy with my purchase.",5,positive
+keyboard,Worst keyboard I've ever purchased. Complete waste of money.,1,negative
+mouse,"Average mouse for the price point. Not amazing, not terrible. The design is okay.",3,neutral
+speaker,Amazing battery life on this speaker. Works like a charm!,4,positive
+keyboard,Excellent performance from this keyboard. 5 stars!,4,positive
+router,Middle-of-the-road router. Neither disappointing nor impressive. Would maybe buy again.,3,neutral
+tablet,The tablet is incredibly well-designed and reliable. The design is great.,4,positive
+hard drive,Great value for money. This hard drive is perfect for my needs. Love the features.,4,positive
+speaker,The speaker is fine. Not sure I would buy it again though.,3,neutral
+router,Worst router I've ever purchased. Complete waste of money.,2,negative
+hard drive,Returned the hard drive immediately. Absolutely horrible experience. Hate the features.,2,negative
+hard drive,This hard drive exceeds my expectations. Highly recommend!,5,positive
+laptop,This laptop is functional but lacks some features I was hoping for. Would maybe buy again.,3,neutral
+hard drive,Very satisfied with this hard drive. Would buy again. The design is great.,4,positive
+headphones,Very satisfied with this headphones. Would buy again.,5,positive
+router,This router is way overpriced for what you get.,2,negative
+smartwatch,This smartwatch is a game-changer! So glad I bought it. Would buy again.,5,positive
+headphones,Very satisfied with this headphones. Would buy again.,5,positive
+laptop,This laptop has both pros and cons. Works well enough. The design is okay.,3,neutral
+monitor,The monitor is okay. Nothing special but gets the job done.,3,neutral
+phone,Amazing battery life on this phone. Works like a charm!,4,positive
+keyboard,The keyboard is okay. Nothing special but gets the job done.,3,neutral
+speaker,The speaker has constant issues that make it unusable.,1,negative
+speaker,This speaker is functional but lacks some features I was hoping for. The design is okay.,3,neutral
+printer,Best printer I've ever owned. The quality is outstanding.,5,positive
+keyboard,This keyboard exceeds my expectations. Highly recommend!,5,positive
+tablet,This tablet is way overpriced for what you get.,2,negative
+phone,Worst phone I've ever purchased. Complete waste of money.,2,negative
+tablet,This tablet exceeds my expectations. Highly recommend!,4,positive
+laptop,The laptop is incredibly well-designed and reliable. Love the features.,5,positive
+hard drive,I love this hard drive! It's been working great for months.,5,positive
+hard drive,Poor customer service regarding this hard drive. Will not buy again.,2,negative
+tablet,The tablet stopped working after a week. Very frustrating!,1,negative
+speaker,This speaker has both pros and cons. Works well enough.,3,neutral
+router,Got this router on sale. It's acceptable for what I paid.,3,neutral
+hard drive,Disappointed with this hard drive. Broke after just a few uses.,2,negative
+hard drive,"Average hard drive for the price point. Not amazing, not terrible.",3,neutral
+mouse,The mouse is fine. Not sure I would buy it again though.,3,neutral
+camera,Middle-of-the-road camera. Neither disappointing nor impressive.,3,neutral
+headphones,Great value for money. This headphones is perfect for my needs. The design is great.,4,positive
+router,Decent router overall. Some features could be improved.,3,neutral
+router,Very satisfied with this router. Would buy again.,4,positive
+mouse,Returned the mouse immediately. Absolutely horrible experience. Hate the features.,2,negative
+hard drive,I love this hard drive! It's been working great for months.,5,positive

@@ -1,0 +1,201 @@
+product_type,review_text,rating,actual_sentiment,sentiment,compound_score,positive_score,neutral_score,negative_score
+tablet,Terrible quality tablet. Would not recommend to anyone.,2,negative,negative,-0.6381,0.0,0.535,0.465
+router,The router is incredibly well-designed and reliable.,4,positive,neutral,0.0,0.0,1.0,0.0
+speaker,Middle-of-the-road speaker. Neither disappointing nor impressive.,3,neutral,positive,0.5977,0.55,0.45,0.0
+camera,Very satisfied with this camera. Would buy again. Would buy again.,5,positive,positive,0.4754,0.236,0.764,0.0
+speaker,Very satisfied with this speaker. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+headphones,This headphones is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+phone,The phone is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+monitor,"Average monitor for the price point. Not amazing, not terrible.",3,neutral,negative,-0.6395,0.0,0.605,0.395
+printer,The printer stopped working after a week. Very frustrating!,1,negative,negative,-0.6581,0.0,0.527,0.473
+printer,This printer is a game-changer! So glad I bought it.,5,positive,positive,0.5551,0.339,0.661,0.0
+tablet,Excellent performance from this tablet. 5 stars!,5,positive,positive,0.6114,0.444,0.556,0.0
+router,Got this router on sale. It's acceptable for what I paid. The design is okay.,3,neutral,positive,0.4939,0.259,0.741,0.0
+router,The router has constant issues that make it unusable.,2,negative,neutral,0.0,0.0,1.0,0.0
+camera,I love this camera! It's been working great for months.,4,positive,positive,0.8622,0.551,0.449,0.0
+monitor,This monitor has both pros and cons. Works well enough.,3,neutral,positive,0.2732,0.189,0.811,0.0
+keyboard,The keyboard stopped working after a week. Very frustrating!,1,negative,negative,-0.6581,0.0,0.527,0.473
+laptop,The laptop is incredibly well-designed and reliable. Would buy again.,4,positive,neutral,0.0,0.0,1.0,0.0
+smartwatch,Excellent performance from this smartwatch. 5 stars! The design is great.,5,positive,positive,0.8439,0.503,0.497,0.0
+speaker,Best speaker I've ever owned. The quality is outstanding.,5,positive,positive,0.8481,0.539,0.461,0.0
+phone,This phone is not worth the money. Save yourself the trouble.,1,negative,neutral,-0.0428,0.206,0.514,0.28
+camera,I love this camera! It's been working great for months.,4,positive,positive,0.8622,0.551,0.449,0.0
+keyboard,"Fantastic keyboard, very happy with my purchase.",5,positive,positive,0.8221,0.603,0.397,0.0
+router,This router is a game-changer! So glad I bought it.,5,positive,positive,0.5551,0.339,0.661,0.0
+phone,The phone is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+mouse,The mouse has constant issues that make it unusable.,1,negative,neutral,0.0,0.0,1.0,0.0
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+camera,The camera has constant issues that make it unusable. The design is poor.,1,negative,negative,-0.4767,0.0,0.795,0.205
+phone,Amazing battery life on this phone. Works like a charm!,5,positive,positive,0.8516,0.608,0.392,0.0
+hard drive,Very satisfied with this hard drive. Would buy again.,5,positive,positive,0.4005,0.269,0.609,0.122
+headphones,"Average headphones for the price point. Not amazing, not terrible.",3,neutral,negative,-0.6395,0.0,0.605,0.395
+mouse,The mouse is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+tablet,Amazing battery life on this tablet. Works like a charm!,5,positive,positive,0.8516,0.608,0.392,0.0
+headphones,Very satisfied with this headphones. Would buy again.,4,positive,positive,0.4754,0.306,0.694,0.0
+headphones,Very satisfied with this headphones. Would buy again.,4,positive,positive,0.4754,0.306,0.694,0.0
+speaker,This speaker is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+smartwatch,The smartwatch is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+laptop,I love this laptop! It's been working great for months.,5,positive,positive,0.8622,0.551,0.449,0.0
+router,"Fantastic router, very happy with my purchase.",4,positive,positive,0.8221,0.603,0.397,0.0
+tablet,"Fantastic tablet, very happy with my purchase.",5,positive,positive,0.8221,0.603,0.397,0.0
+keyboard,The keyboard meets basic expectations but doesn't wow me. The design is okay.,3,neutral,negative,-0.4133,0.135,0.63,0.235
+keyboard,Disappointed with this keyboard. Broke after just a few uses.,1,negative,negative,-0.7096,0.0,0.543,0.457
+keyboard,The keyboard meets basic expectations but doesn't wow me.,3,neutral,negative,-0.6259,0.0,0.661,0.339
+smartwatch,I love this smartwatch! It's been working great for months.,4,positive,positive,0.8622,0.551,0.449,0.0
+speaker,"Fantastic speaker, very happy with my purchase. The design is great.",4,positive,positive,0.9134,0.594,0.406,0.0
+mouse,This mouse is a game-changer! So glad I bought it.,5,positive,positive,0.5551,0.339,0.661,0.0
+laptop,Best laptop I've ever owned. The quality is outstanding.,4,positive,positive,0.8481,0.539,0.461,0.0
+tablet,This tablet is functional but lacks some features I was hoping for. Would maybe buy again.,3,neutral,positive,0.5719,0.209,0.791,0.0
+router,Decent router overall. Some features could be improved.,3,neutral,positive,0.4767,0.307,0.693,0.0
+phone,Got this phone on sale. It's acceptable for what I paid.,3,neutral,positive,0.3182,0.204,0.796,0.0
+camera,The camera is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+monitor,The monitor is fine. Not sure I would buy it again though. Would maybe buy again.,3,neutral,neutral,-0.0418,0.107,0.776,0.117
+printer,The printer is incredibly well-designed and reliable.,4,positive,neutral,0.0,0.0,1.0,0.0
+printer,Got this printer on sale. It's acceptable for what I paid. Neutral about the features.,3,neutral,positive,0.3182,0.15,0.85,0.0
+router,The router stopped working after a week. Very frustrating!,1,negative,negative,-0.6581,0.0,0.527,0.473
+router,Middle-of-the-road router. Neither disappointing nor impressive. Would maybe buy again.,3,neutral,positive,0.5977,0.379,0.621,0.0
+router,Very satisfied with this router. Would buy again.,4,positive,positive,0.4754,0.306,0.694,0.0
+phone,The phone is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+keyboard,This keyboard is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+hard drive,I love this hard drive! It's been working great for months.,5,positive,positive,0.8478,0.506,0.412,0.082
+laptop,Got this laptop on sale. It's acceptable for what I paid. Neutral about the features.,3,neutral,positive,0.3182,0.15,0.85,0.0
+tablet,I love this tablet! It's been working great for months.,5,positive,positive,0.8622,0.551,0.449,0.0
+printer,Best printer I've ever owned. The quality is outstanding. Love the features.,5,positive,positive,0.9246,0.579,0.421,0.0
+phone,This phone exceeds my expectations. Highly recommend!,5,positive,positive,0.474,0.34,0.66,0.0
+camera,Best camera I've ever owned. The quality is outstanding. Love the features.,5,positive,positive,0.9246,0.579,0.421,0.0
+laptop,The laptop stopped working after a week. Very frustrating!,2,negative,negative,-0.6581,0.0,0.527,0.473
+tablet,Worst tablet I've ever purchased. Complete waste of money. Hate the features.,1,negative,negative,-0.891,0.0,0.459,0.541
+smartwatch,This smartwatch is a game-changer! So glad I bought it.,5,positive,positive,0.5551,0.339,0.661,0.0
+hard drive,"Fantastic hard drive, very happy with my purchase.",5,positive,positive,0.8016,0.543,0.357,0.1
+smartwatch,Disappointed with this smartwatch. Broke after just a few uses. Would not buy again.,2,negative,negative,-0.7096,0.0,0.651,0.349
+phone,This phone doesn't perform as advertised. Very misleading!,1,negative,negative,-0.5081,0.0,0.681,0.319
+hard drive,This hard drive is not worth the money. Save yourself the trouble.,2,negative,negative,-0.1446,0.189,0.472,0.34
+printer,The printer has constant issues that make it unusable. Would not buy again.,2,negative,neutral,0.0,0.0,1.0,0.0
+keyboard,Decent keyboard overall. Some features could be improved. Neutral about the features.,3,neutral,positive,0.4767,0.22,0.78,0.0
+keyboard,Terrible quality keyboard. Would not recommend to anyone. Would not buy again.,2,negative,negative,-0.6381,0.0,0.657,0.343
+headphones,"Fantastic headphones, very happy with my purchase.",5,positive,positive,0.8221,0.603,0.397,0.0
+tablet,Very satisfied with this tablet. Would buy again. Would buy again.,4,positive,positive,0.4754,0.236,0.764,0.0
+monitor,I love this monitor! It's been working great for months.,5,positive,positive,0.8622,0.551,0.449,0.0
+smartwatch,Excellent performance from this smartwatch. 5 stars!,5,positive,positive,0.6114,0.444,0.556,0.0
+camera,Decent camera overall. Some features could be improved.,3,neutral,positive,0.4767,0.307,0.693,0.0
+speaker,This speaker exceeds my expectations. Highly recommend!,4,positive,positive,0.474,0.34,0.66,0.0
+phone,Decent phone overall. Some features could be improved.,3,neutral,positive,0.4767,0.307,0.693,0.0
+phone,Great value for money. This phone is perfect for my needs. The design is great.,5,positive,positive,0.936,0.565,0.435,0.0
+monitor,I love this monitor! It's been working great for months. Would buy again.,4,positive,positive,0.8622,0.462,0.538,0.0
+monitor,Great value for money. This monitor is perfect for my needs. Love the features.,4,positive,positive,0.9371,0.59,0.41,0.0
+camera,The camera meets basic expectations but doesn't wow me.,3,neutral,negative,-0.6259,0.0,0.661,0.339
+tablet,The tablet has constant issues that make it unusable.,1,negative,neutral,0.0,0.0,1.0,0.0
+headphones,This headphones doesn't perform as advertised. Very misleading!,2,negative,negative,-0.5081,0.0,0.681,0.319
+keyboard,Terrible quality keyboard. Would not recommend to anyone.,1,negative,negative,-0.6381,0.0,0.535,0.465
+phone,Amazing battery life on this phone. Works like a charm!,4,positive,positive,0.8516,0.608,0.392,0.0
+laptop,Disappointed with this laptop. Broke after just a few uses.,1,negative,negative,-0.7096,0.0,0.543,0.457
+printer,This printer is functional but lacks some features I was hoping for.,3,neutral,positive,0.5719,0.27,0.73,0.0
+camera,The camera meets basic expectations but doesn't wow me. The design is okay.,3,neutral,negative,-0.4133,0.135,0.63,0.235
+monitor,Disappointed with this monitor. Broke after just a few uses.,1,negative,negative,-0.7096,0.0,0.543,0.457
+headphones,Best headphones I've ever owned. The quality is outstanding. The design is great.,4,positive,positive,0.9231,0.552,0.448,0.0
+tablet,This tablet exceeds my expectations. Highly recommend!,5,positive,positive,0.474,0.34,0.66,0.0
+phone,Best phone I've ever owned. The quality is outstanding. The design is great.,5,positive,positive,0.9231,0.552,0.448,0.0
+tablet,This tablet has both pros and cons. Works well enough.,3,neutral,positive,0.2732,0.189,0.811,0.0
+smartwatch,This smartwatch has both pros and cons. Works well enough.,3,neutral,positive,0.2732,0.189,0.811,0.0
+keyboard,I love this keyboard! It's been working great for months. Love the features.,4,positive,positive,0.9299,0.587,0.413,0.0
+tablet,This tablet exceeds my expectations. Highly recommend!,5,positive,positive,0.474,0.34,0.66,0.0
+mouse,The mouse is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+camera,Amazing battery life on this camera. Works like a charm! Love the features.,5,positive,positive,0.9259,0.628,0.372,0.0
+phone,This phone is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+laptop,The laptop is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+headphones,Terrible quality headphones. Would not recommend to anyone. Would not buy again.,2,negative,negative,-0.6381,0.0,0.657,0.343
+camera,Great value for money. This camera is perfect for my needs.,5,positive,positive,0.8807,0.56,0.44,0.0
+monitor,I love this monitor! It's been working great for months. Love the features.,4,positive,positive,0.9299,0.587,0.413,0.0
+phone,I love this phone! It's been working great for months.,5,positive,positive,0.8622,0.551,0.449,0.0
+monitor,This monitor is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+laptop,This laptop is not worth the money. Save yourself the trouble.,1,negative,neutral,-0.0428,0.206,0.514,0.28
+printer,The printer meets basic expectations but doesn't wow me. Neutral about the features.,3,neutral,negative,-0.6259,0.0,0.745,0.255
+monitor,"Fantastic monitor, very happy with my purchase.",5,positive,positive,0.8221,0.603,0.397,0.0
+keyboard,Very satisfied with this keyboard. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+laptop,Decent laptop overall. Some features could be improved. Neutral about the features.,3,neutral,positive,0.4767,0.22,0.78,0.0
+tablet,Excellent performance from this tablet. 5 stars!,4,positive,positive,0.6114,0.444,0.556,0.0
+speaker,This speaker is way overpriced for what you get. Would not buy again.,2,negative,neutral,0.0,0.0,1.0,0.0
+phone,This phone is a game-changer! So glad I bought it.,4,positive,positive,0.5551,0.339,0.661,0.0
+printer,This printer is a game-changer! So glad I bought it. The design is great.,5,positive,positive,0.8264,0.435,0.565,0.0
+router,Very satisfied with this router. Would buy again.,4,positive,positive,0.4754,0.306,0.694,0.0
+laptop,This laptop exceeds my expectations. Highly recommend!,4,positive,positive,0.474,0.34,0.66,0.0
+mouse,The mouse is incredibly well-designed and reliable.,4,positive,neutral,0.0,0.0,1.0,0.0
+smartwatch,Very satisfied with this smartwatch. Would buy again. Love the features.,4,positive,positive,0.807,0.448,0.552,0.0
+laptop,Great value for money. This laptop is perfect for my needs.,4,positive,positive,0.8807,0.56,0.44,0.0
+headphones,The headphones is incredibly well-designed and reliable.,4,positive,neutral,0.0,0.0,1.0,0.0
+smartwatch,Excellent performance from this smartwatch. 5 stars!,5,positive,positive,0.6114,0.444,0.556,0.0
+laptop,This laptop is a game-changer! So glad I bought it.,5,positive,positive,0.5551,0.339,0.661,0.0
+phone,The phone stopped working after a week. Very frustrating!,1,negative,negative,-0.6581,0.0,0.527,0.473
+headphones,Very satisfied with this headphones. Would buy again. Love the features.,4,positive,positive,0.807,0.448,0.552,0.0
+monitor,Great value for money. This monitor is perfect for my needs.,4,positive,positive,0.8807,0.56,0.44,0.0
+smartwatch,This smartwatch is not worth the money. Save yourself the trouble.,2,negative,neutral,-0.0428,0.206,0.514,0.28
+headphones,Great value for money. This headphones is perfect for my needs.,5,positive,positive,0.8807,0.56,0.44,0.0
+printer,Excellent performance from this printer. 5 stars! Would buy again.,4,positive,positive,0.6114,0.333,0.667,0.0
+speaker,I love this speaker! It's been working great for months.,5,positive,positive,0.8622,0.551,0.449,0.0
+mouse,Excellent performance from this mouse. 5 stars!,5,positive,positive,0.6114,0.444,0.556,0.0
+hard drive,This hard drive has both pros and cons. Works well enough.,3,neutral,positive,0.1779,0.168,0.72,0.112
+laptop,Very satisfied with this laptop. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+speaker,I love this speaker! It's been working great for months.,4,positive,positive,0.8622,0.551,0.449,0.0
+keyboard,Best keyboard I've ever owned. The quality is outstanding.,4,positive,positive,0.8481,0.539,0.461,0.0
+headphones,Excellent performance from this headphones. 5 stars! Love the features.,4,positive,positive,0.8478,0.539,0.461,0.0
+smartwatch,Great value for money. This smartwatch is perfect for my needs.,5,positive,positive,0.8807,0.56,0.44,0.0
+phone,Disappointed with this phone. Broke after just a few uses.,2,negative,negative,-0.7096,0.0,0.543,0.457
+hard drive,The hard drive stopped working after a week. Very frustrating!,2,negative,negative,-0.6989,0.0,0.469,0.531
+keyboard,The keyboard is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+monitor,The monitor is incredibly well-designed and reliable.,5,positive,neutral,0.0,0.0,1.0,0.0
+keyboard,Great value for money. This keyboard is perfect for my needs. Love the features.,5,positive,positive,0.9371,0.59,0.41,0.0
+hard drive,The hard drive is incredibly well-designed and reliable.,5,positive,negative,-0.1027,0.0,0.833,0.167
+speaker,Best speaker I've ever owned. The quality is outstanding. Would buy again.,5,positive,positive,0.8481,0.451,0.549,0.0
+hard drive,Decent hard drive overall. Some features could be improved. Neutral about the features.,3,neutral,positive,0.4019,0.2,0.71,0.09
+phone,Middle-of-the-road phone. Neither disappointing nor impressive.,3,neutral,positive,0.5977,0.55,0.45,0.0
+laptop,Great value for money. This laptop is perfect for my needs.,4,positive,positive,0.8807,0.56,0.44,0.0
+mouse,"Fantastic mouse, very happy with my purchase.",4,positive,positive,0.8221,0.603,0.397,0.0
+speaker,Very satisfied with this speaker. Would buy again. The design is great.,5,positive,positive,0.8016,0.418,0.582,0.0
+camera,This camera exceeds my expectations. Highly recommend! Would buy again.,5,positive,positive,0.474,0.255,0.745,0.0
+laptop,Middle-of-the-road laptop. Neither disappointing nor impressive. Neutral about the features.,3,neutral,positive,0.5977,0.379,0.621,0.0
+laptop,Got this laptop on sale. It's acceptable for what I paid.,3,neutral,positive,0.3182,0.204,0.796,0.0
+monitor,"Fantastic monitor, very happy with my purchase.",5,positive,positive,0.8221,0.603,0.397,0.0
+keyboard,Worst keyboard I've ever purchased. Complete waste of money.,1,negative,negative,-0.7845,0.0,0.504,0.496
+mouse,"Average mouse for the price point. Not amazing, not terrible. The design is okay.",3,neutral,negative,-0.5142,0.105,0.607,0.288
+speaker,Amazing battery life on this speaker. Works like a charm!,4,positive,positive,0.8516,0.608,0.392,0.0
+keyboard,Excellent performance from this keyboard. 5 stars!,4,positive,positive,0.6114,0.444,0.556,0.0
+router,Middle-of-the-road router. Neither disappointing nor impressive. Would maybe buy again.,3,neutral,positive,0.5977,0.379,0.621,0.0
+tablet,The tablet is incredibly well-designed and reliable. The design is great.,4,positive,positive,0.6249,0.291,0.709,0.0
+hard drive,Great value for money. This hard drive is perfect for my needs. Love the features.,4,positive,positive,0.9325,0.558,0.388,0.054
+speaker,The speaker is fine. Not sure I would buy it again though.,3,neutral,neutral,-0.0418,0.141,0.705,0.154
+router,Worst router I've ever purchased. Complete waste of money.,2,negative,negative,-0.7845,0.0,0.504,0.496
+hard drive,Returned the hard drive immediately. Absolutely horrible experience. Hate the features.,2,negative,negative,-0.8464,0.0,0.466,0.534
+hard drive,This hard drive exceeds my expectations. Highly recommend!,5,positive,positive,0.3989,0.294,0.572,0.134
+laptop,This laptop is functional but lacks some features I was hoping for. Would maybe buy again.,3,neutral,positive,0.5719,0.209,0.791,0.0
+hard drive,Very satisfied with this hard drive. Would buy again. The design is great.,4,positive,positive,0.7778,0.387,0.538,0.075
+headphones,Very satisfied with this headphones. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+router,This router is way overpriced for what you get.,2,negative,neutral,0.0,0.0,1.0,0.0
+smartwatch,This smartwatch is a game-changer! So glad I bought it. Would buy again.,5,positive,positive,0.5551,0.264,0.736,0.0
+headphones,Very satisfied with this headphones. Would buy again.,5,positive,positive,0.4754,0.306,0.694,0.0
+laptop,This laptop has both pros and cons. Works well enough. The design is okay.,3,neutral,positive,0.4588,0.25,0.75,0.0
+monitor,The monitor is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+phone,Amazing battery life on this phone. Works like a charm!,4,positive,positive,0.8516,0.608,0.392,0.0
+keyboard,The keyboard is okay. Nothing special but gets the job done.,3,neutral,neutral,-0.0462,0.12,0.745,0.135
+speaker,The speaker has constant issues that make it unusable.,1,negative,neutral,0.0,0.0,1.0,0.0
+speaker,This speaker is functional but lacks some features I was hoping for. The design is okay.,3,neutral,positive,0.7227,0.318,0.682,0.0
+printer,Best printer I've ever owned. The quality is outstanding.,5,positive,positive,0.8481,0.539,0.461,0.0
+keyboard,This keyboard exceeds my expectations. Highly recommend!,5,positive,positive,0.474,0.34,0.66,0.0
+tablet,This tablet is way overpriced for what you get.,2,negative,neutral,0.0,0.0,1.0,0.0
+phone,Worst phone I've ever purchased. Complete waste of money.,2,negative,negative,-0.7845,0.0,0.504,0.496
+tablet,This tablet exceeds my expectations. Highly recommend!,4,positive,positive,0.474,0.34,0.66,0.0
+laptop,The laptop is incredibly well-designed and reliable. Love the features.,5,positive,positive,0.6369,0.318,0.682,0.0
+hard drive,I love this hard drive! It's been working great for months.,5,positive,positive,0.8478,0.506,0.412,0.082
+hard drive,Poor customer service regarding this hard drive. Will not buy again.,2,negative,negative,-0.5574,0.0,0.662,0.338
+tablet,The tablet stopped working after a week. Very frustrating!,1,negative,negative,-0.6581,0.0,0.527,0.473
+speaker,This speaker has both pros and cons. Works well enough.,3,neutral,positive,0.2732,0.189,0.811,0.0
+router,Got this router on sale. It's acceptable for what I paid.,3,neutral,positive,0.3182,0.204,0.796,0.0
+hard drive,Disappointed with this hard drive. Broke after just a few uses.,2,negative,negative,-0.743,0.0,0.49,0.51
+hard drive,"Average hard drive for the price point. Not amazing, not terrible.",3,neutral,negative,-0.683,0.0,0.547,0.453
+mouse,The mouse is fine. Not sure I would buy it again though.,3,neutral,neutral,-0.0418,0.141,0.705,0.154
+camera,Middle-of-the-road camera. Neither disappointing nor impressive.,3,neutral,positive,0.5977,0.55,0.45,0.0
+headphones,Great value for money. This headphones is perfect for my needs. The design is great.,4,positive,positive,0.936,0.565,0.435,0.0
+router,Decent router overall. Some features could be improved.,3,neutral,positive,0.4767,0.307,0.693,0.0
+router,Very satisfied with this router. Would buy again.,4,positive,positive,0.4754,0.306,0.694,0.0
+mouse,Returned the mouse immediately. Absolutely horrible experience. Hate the features.,2,negative,negative,-0.8297,0.0,0.508,0.492
+hard drive,I love this hard drive! It's been working great for months.,5,positive,positive,0.8478,0.506,0.412,0.082
